@@ -132,7 +132,7 @@ body{
 }
 @media (max-width: 375px){
     .parent{
-        width: 1440px;
+        width: 375px;
         height: 800px;
         background-color: hsl(229, 57%, 11%);
         display: flex;
